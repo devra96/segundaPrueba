@@ -1,1 +1,2 @@
 a
+Cambio hecho despues de crear la rama con "git branch otrarama" y situarme en ella con "git checkout otrarama"
